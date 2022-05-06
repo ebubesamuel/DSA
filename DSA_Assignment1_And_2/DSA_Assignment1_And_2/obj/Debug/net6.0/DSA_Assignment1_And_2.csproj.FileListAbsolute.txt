@@ -1,0 +1,15 @@
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/bin/Debug/net6.0/DSA_Assignment1_And_2
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/bin/Debug/net6.0/DSA_Assignment1_And_2.deps.json
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/bin/Debug/net6.0/DSA_Assignment1_And_2.runtimeconfig.json
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/bin/Debug/net6.0/DSA_Assignment1_And_2.dll
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/bin/Debug/net6.0/DSA_Assignment1_And_2.pdb
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.csproj.AssemblyReference.cache
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.AssemblyInfoInputs.cache
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.AssemblyInfo.cs
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.csproj.CoreCompileInputs.cache
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.dll
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/refint/DSA_Assignment1_And_2.dll
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.pdb
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/DSA_Assignment1_And_2.genruntimeconfig.cache
+/Users/chidiebubesamuel/Downloads/DSA_Assignment1_And_2/DSA_Assignment1_And_2/obj/Debug/net6.0/ref/DSA_Assignment1_And_2.dll
